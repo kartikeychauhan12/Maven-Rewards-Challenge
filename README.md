@@ -1,5 +1,6 @@
 # Maven-Rewards-Challenge
 This repository contains a Power BI Report created for the [#Maven Rewards Challenge](https://mavenanalytics.io/challenges/maven-rewards-challenge/404c6060-60eb-400f-9bce-c3b9f97e9d5a), where I built a Power BI dashboard which contains pages ✤ Executive view ✤ Engagement View to help identify key Cafe Rewards customer segments and define offers that should used to target them effectively.
+
 Dashboard Link :- 
 
 A special thanks to [Maven Analytics](https://www.linkedin.com/company/maven-analytics/posts/?feedView=all) for creating these insightful project based challenge objectives.
