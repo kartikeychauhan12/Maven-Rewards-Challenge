@@ -5,6 +5,6 @@ Dashboard Link :-
 
 A special thanks to [Maven Analytics](https://www.linkedin.com/company/maven-analytics/posts/?feedView=all) for creating these insightful project based challenge objectives.
 
-Challenge Objective :=
+Challenge Objective :-
 For the Maven Rewards Challenge, you’ll play the role of a Sr. Marketing Analyst at Maven Cafe.You've just run a test by sending different combinations of promotional offers to existing rewards members. Now that the 30-day period for the test has concluded, your task is to identify key customer segments and develop a data-driven strategy for future promotional messaging & targeting.
 The results need to be summarized in a report that will be presented to the CMO.
